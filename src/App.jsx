@@ -58,7 +58,7 @@ function App() {
                   <span>V-15722705</span>
                   <FaClipboard
                     className="cursor-pointer text-gray-600 hover:text-gray-800"
-                    onClick={() => copyToClipboard("V-15722705")}
+                    onClick={() => copyToClipboard("15722705")}
                   />
                 </p>
               </div>
